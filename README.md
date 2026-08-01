@@ -88,22 +88,22 @@
 
 <h2 align="center">🚀 Digital Solutions</h2>
 
-<table width="100%">
+<table width="100%" align="center">
   <tr>
     <td width="33%" align="center" valign="top">
-      <h3>🌐 Web Platforms</h3>
+      <h4>🌐 Web Platforms</h4>
       Enterprise Websites<br>
       SaaS Applications<br>
       Digital Experiences
     </td>
     <td width="33%" align="center" valign="top">
-      <h3>📱 Applications</h3>
+      <h4>📱 Applications</h4>
       Mobile Solutions<br>
       Business Systems<br>
       Cross-Platform Apps
     </td>
     <td width="33%" align="center" valign="top">
-      <h3>🧠 Intelligent Systems</h3>
+      <h4>🧠 Intelligent Systems</h4>
       AI Assistants<br>
       Automation Pipelines<br>
       Smart Platforms
@@ -112,37 +112,6 @@
 </table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:1E1B4B,100:020617&height=3&section=header"/>
-
-<h2 align="center">📊 GitHub Intelligence</h2>
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=NilaxsanSE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=67E8F9&icon_color=7C3AED&text_color=CBD5E1"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NilaxsanSE&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=67E8F9&text_color=CBD5E1"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com/?user=NilaxsanSE&theme=tokyonight&hide_border=true&background=0B1120&ring=7C3AED&fire=67E8F9&currStreakLabel=67E8F9"/>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:1E1B4B,100:020617&height=3&section=header"/>
-
-<h2 align="center">⚡ Development Activity</h2>
-
-<div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NilaxsanSE&theme=react-dark&hide_border=true&bg_color=0B1120&color=67E8F9&line=7C3AED&point=F8FAFC"/>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:1E1B4B,100:020617&height=3&section=header"/>
-
-<h2 align="center">🐍 Contribution Journey</h2>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/NilaxsanSE/NilaxsanSE/output/github-contribution-grid-snake-dark.svg"/>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:1E1B4B,100:020617&height=3&section=header"/>
-
-<div align="center">
 
 <h2>🌎 Connect With Me</h2>
 
