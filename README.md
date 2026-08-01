@@ -40,12 +40,12 @@ I am a Technology Director and Software Engineer focused on building
 My work combines:
 
 <br>
-
+<center>
 💻 Software Engineering  
 🤖 Artificial Intelligence  
 ☁️ Cloud Architecture  
 🚀 Digital Transformation  
-
+</center>
 </p>
 
 
@@ -260,23 +260,6 @@ Smart technology
 ---
 
 
-<div align="center">
-
-## 📊 GitHub Analytics
-
-</div>
-
-
-<div align="center">
-
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=NilaxsanSE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NilaxsanSE&layout=compact&theme=tokyonight&hide_border=true"/>
-
-
-<br><br>
 
 
 <img src="https://streak-stats.demolab.com/?user=NilaxsanSE&theme=tokyonight&hide_border=true"/>
