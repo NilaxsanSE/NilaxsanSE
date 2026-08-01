@@ -88,28 +88,47 @@
 
 <h2 align="center">🚀 Digital Solutions</h2>
 
-<table width="100%" align="center">
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <h4>🌐 Web Platforms</h4>
-      Enterprise Websites<br>
-      SaaS Applications<br>
-      Digital Experiences
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h4>📱 Applications</h4>
-      Mobile Solutions<br>
-      Business Systems<br>
-      Cross-Platform Apps
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h4>🧠 Intelligent Systems</h4>
-      AI Assistants<br>
-      Automation Pipelines<br>
-      Smart Platforms
-    </td>
-  </tr>
+<div align="center">
+
+<table width="100%" cellpadding="25">
+<tr>
+
+<td width="33%" align="center" valign="top">
+
+<h4>🌐 Web Platforms</h4>
+
+Enterprise Websites<br>
+SaaS Applications<br>
+Digital Experiences
+
+</td>
+
+
+<td width="33%" align="center" valign="top">
+
+<h4>📱 Applications</h4>
+
+Mobile Solutions<br>
+Business Systems<br>
+Cross-Platform Apps
+
+</td>
+
+
+<td width="33%" align="center" valign="top">
+
+<h4>🧠 Intelligent Systems</h4>
+
+AI Assistants<br>
+Automation Pipelines<br>
+Smart Platforms
+
+</td>
+
+</tr>
 </table>
+
+</div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:1E1B4B,100:020617&height=3&section=header"/>
 
