@@ -1,15 +1,25 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:111827,70:312e81,100:020617&height=300&section=header&text=NILAXSAN%20SUVENDRALINGAM&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f172a,65:312e81,100:020617&height=320&section=header&text=NILAXSAN%20SE&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Technology+Director+%7C+Software+Engineer;AI+%26+Automation+Solutions+Builder;Full+Stack+Architect;Building+Digital+Products+for+the+Future"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=25&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Technology+Director+%7C+Software+Engineer;AI+%26+Automation+Solutions+Builder;Full+Stack+Application+Architect;Building+Digital+Systems+of+Tomorrow"/>
 
 
-<br>
+<br><br>
 
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0ea5e9"/>
+<a href="https://nilaxsan-dev-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-38BDF8?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+
+<a href="https://www.linkedin.com/in/s-nilaxsan-96b762341">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+
+<img src="https://komarev.com/ghpvc/?username=NilaxsanSE&style=for-the-badge&color=8B5CF6"/>
 
 
 </div>
@@ -18,26 +28,45 @@
 <br>
 
 
-<h2 align="center">
-⚡ Engineering Digital Intelligence
-</h2>
+# 👨‍💻 About Me
+
+
+```yaml
+name: Nilaxsan Suvendralingam
+
+role:
+  - Technology Director
+  - Software Engineer
+  - AI Solutions Builder
+
+specialization:
+  - Full Stack Development
+  - Artificial Intelligence
+  - Automation Systems
+  - Cloud Architecture
+
+mission:
+  "Transforming ideas into scalable digital solutions."
+```
+
+
+<br>
+
+
+<h2 align="center">🚀 Digital Engineering Philosophy</h2>
 
 
 <p align="center">
 
-Technology Director and Software Engineer focused on creating  
-<strong>scalable software platforms, AI solutions, automation systems and modern digital experiences.</strong>
+I build modern technology solutions by combining:
 
 <br><br>
-
-I design and develop solutions that connect:
-
-<br>
 
 💻 Software Engineering  
 🤖 Artificial Intelligence  
 ☁️ Cloud Infrastructure  
-🚀 Business Automation  
+⚡ Business Automation  
+🎨 Premium User Experiences  
 
 </p>
 
@@ -48,7 +77,8 @@ I design and develop solutions that connect:
 
 ---
 
-<h2 align="center">🏢 Professional Identity</h2>
+
+<h2 align="center">🏢 Technology Leadership</h2>
 
 
 <div align="center">
@@ -61,9 +91,9 @@ I design and develop solutions that connect:
 <td width="50%" align="center">
 
 
-### 🚀 Technology Director
+### ⚡ Technology Strategy
 
-Leading technology strategy, software development and digital transformation.
+Designing scalable technology ecosystems, applications and digital platforms.
 
 
 </td>
@@ -72,12 +102,13 @@ Leading technology strategy, software development and digital transformation.
 <td width="50%" align="center">
 
 
-### 💡 Solution Architect
+### 🧠 Innovation Engineering
 
-Designing modern systems combining AI, cloud and automation.
+Creating AI-powered solutions and automation workflows.
 
 
 </td>
+
 
 </tr>
 
@@ -93,13 +124,14 @@ Designing modern systems combining AI, cloud and automation.
 
 ---
 
-<h2 align="center">🌐 Technology Ecosystem</h2>
+
+<h2 align="center">🛠 Technology Stack</h2>
 
 
 <div align="center">
 
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nodejs,express,mongodb,mysql,python,php,flutter,dart,tensorflow,docker,linux,aws,git,github&perline=9"/>
+<img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,nodejs,express,mongodb,mysql,php,python,flutter,dart,tensorflow,docker,linux,git,github,vscode&perline=9"/>
 
 
 </div>
@@ -111,22 +143,27 @@ Designing modern systems combining AI, cloud and automation.
 
 ---
 
-<h2 align="center">🤖 Artificial Intelligence & Innovation</h2>
+
+<h2 align="center">🤖 AI & Future Technologies</h2>
 
 
 <div align="center">
 
 
-<img src="https://img.shields.io/badge/AI_SOLUTIONS-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Artificial_Intelligence-111827?style=for-the-badge&logo=openai&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/MACHINE_LEARNING-4F46E5?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/AUTOMATION_ENGINEERING-0891B2?style=for-the-badge&logo=robotframework&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine_Learning-4F46E5?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/CLOUD_ARCHITECTURE-2563EB?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Automation-0891B2?style=for-the-badge&logo=robotframework&logoColor=white"/>
+
+
+<img src="https://img.shields.io/badge/Cloud_Systems-2563EB?style=for-the-badge&logo=icloud&logoColor=white"/>
 
 
 </div>
+
 
 
 <br>
@@ -134,64 +171,63 @@ Designing modern systems combining AI, cloud and automation.
 
 ---
 
-<h2 align="center">🚀 Digital Products & Projects</h2>
+
+<h2 align="center">🌍 Building Digital Solutions</h2>
 
 
 <table>
 
-
 <tr>
 
 
-<td width="33%">
+<td width="33%" align="center">
 
 
-### 🌍 Enterprise Platforms
+## 🌐 Web Platforms
 
-Business websites
+Enterprise websites
 
-Digital transformation
+Modern SaaS applications
 
-Corporate solutions
-
-
-</td>
-
-
-
-<td width="33%">
-
-
-### 📱 Mobile Ecosystems
-
-Android applications
-
-iOS solutions
-
-Cross platform apps
+Digital experiences
 
 
 </td>
 
 
 
-<td width="33%">
+<td width="33%" align="center">
 
 
-### 🧠 AI Systems
+## 📱 Mobile Apps
+
+Android
+
+iOS
+
+Cross-platform systems
+
+
+</td>
+
+
+
+<td width="33%" align="center">
+
+
+## 🧠 Intelligent Systems
+
+AI assistants
 
 Automation
 
-Machine learning
-
-Intelligent platforms
+Smart solutions
 
 
 </td>
 
 
 </tr>
-
 
 </table>
 
@@ -202,22 +238,23 @@ Intelligent platforms
 
 ---
 
-<h2 align="center">📊 GitHub Intelligence</h2>
+
+<h2 align="center">📊 GitHub Analytics</h2>
 
 
 <div align="center">
 
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=NilaxsanSE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NilaxsanSE&layout=compact&theme=tokyonight&hide_border=true"/>
 
 
 <br><br>
 
 
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=NilaxsanSE&theme=tokyonight&hide_border=true"/>
 
 
 </div>
@@ -228,6 +265,7 @@ Intelligent platforms
 
 
 ---
+
 
 <h2 align="center">⚡ Development Activity</h2>
 
@@ -235,7 +273,7 @@ Intelligent platforms
 <div align="center">
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NilaxsanSE&theme=react-dark&hide_border=true"/>
 
 
 </div>
@@ -246,6 +284,7 @@ Intelligent platforms
 
 
 ---
+
 
 <h2 align="center">🐍 Contribution Journey</h2>
 
@@ -253,7 +292,7 @@ Intelligent platforms
 <div align="center">
 
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
+<img src="https://raw.githubusercontent.com/NilaxsanSE/NilaxsanSE/output/github-contribution-grid-snake-dark.svg">
 
 
 </div>
@@ -265,29 +304,30 @@ Intelligent platforms
 
 ---
 
-<h2 align="center">🌎 Connect</h2>
+
+<h2 align="center">🌐 Connect With Me</h2>
 
 
 <div align="center">
 
 
-<a href="YOUR_WEBSITE">
+<a href="https://nilaxsan-dev-portfolio.vercel.app/">
 
-<img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white"/>
 
 </a>
 
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/s-nilaxsan-96b762341">
 
 <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
 </a>
 
 
-<a href="mailto:YOUR_EMAIL">
+<a href="https://github.com/NilaxsanSE">
 
-<img src="https://img.shields.io/badge/Contact-E11D48?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
 
@@ -302,7 +342,13 @@ Intelligent platforms
 <div align="center">
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:312e81,100:020617&height=160&section=footer"/>
+### "Building technology today. Engineering the future tomorrow."
+
+
+<br>
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:312e81,100:020617&height=180&section=footer"/>
 
 
 </div>
